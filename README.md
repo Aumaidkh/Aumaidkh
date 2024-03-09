@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Murtaza Khursheed
+# Hello there! 👋 I'm Murtaza Khursheed, Mobile Application Developer.
 
 
 ## About Me
