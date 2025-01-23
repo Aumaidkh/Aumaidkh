@@ -26,7 +26,7 @@ I'm a passionate full-stack software developer having experiences with backend d
 
 ## Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aumaidkh&theme=hacker&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aumaidkh&theme=github-dark&hide_border=true&border_radius=2)](https://git.io/streak-stats)
 
 Feel free to reach out for collaboration, tech discussions, or just to say hi! 🚀
 
